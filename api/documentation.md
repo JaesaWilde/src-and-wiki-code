@@ -145,3 +145,104 @@ To change the biome (and name) of a planet, change its ```"settingsHash":``` val
 | Widow's Harbor | 3 | 2768073863 |
 | Zosma | 252 | 2360232252 |
 
+## Glacial Fjords
+
+| Planet name | Index | Hash |
+| :--- | :---: | :---: |
+| Alathfar XI | 141 | 1297056046 |
+| Arkturus | 74 | 670993741 |
+| Borea | 65 | 3293929397 |
+| Epsilon Phoencis VI | 167 | 3517952761 |
+| Hadar | 176 | 3671746797 |
+| Heeth | 79 | 1391690878 |
+| Hesoe Prime | 181 | 1581052380 |
+| Julheim | 72 | 922433838 |
+| Kelvinor | 17 | 2273175182 |
+| Marfark | 198 | 2831860380 |
+| Mog | 95 | 910436923 |
+| New Kiruna | 20 | 1299274778 |
+| New Stockholm | 93 | 3515684391 |
+| Okul VI | 13 | 2877873656 |
+| Vandalon IV | 243 | 230950549 |
+| Vega Bay | 246 | 229350423 |
+| Vog-Sojoth | 117 | 2580049274 |
+
+## Frozen Boneyard
+
+| Planet name | Index | Hash |
+| :--- | :---: | :---: |
+| Acrux IX | 133 |  |
+| Choepessa IV | 158 |  |
+| Deneb Secundus | 164 |  |
+| Estanu | 169 |  |
+| Eukoria | 55 |  |
+| Grafmere | 92 |  |
+| Halies Port | 179 |  |
+| Igla | 19 |  |
+| Inari | 83 |  |
+| Krakatwo | 27 |  |
+| Lesath | 194 |  |
+| Martyr's Bay | 14 |  |
+| Oslo Station | 106 |  |
+| Stor Tha Prime | 235 |  |
+
+## Tundra
+
+| Planet name | Index | Hash |
+| :--- | :---: | :---: |
+| Andar | 142 |  |
+| Angel's Venture | 127 |  |
+| Aurora Bay | 114 |  |
+| Bunda Secundus | 148 |  |
+| Crucible | 29 |  |
+| Demiurg | 163 |  |
+| Diluvia | 37 |  |
+| Duma Tyr | 111 |  |
+| Fort Justice | 21 |  |
+| Ilduna Prime | 62 |  |
+| Kerth Secundus | 57 |  |
+| Martale | 199 |  |
+| Midasburg | 10 |  |
+| Ras Algethi | 223 |  |
+| Shelt | 68 |  |
+| Trandor | 100 |  |
+
+## Ionized Grassland
+
+| Planet name | Index | Hash |
+| :--- | :---: | :---: |
+| Acrab XI | 132 |  |
+| Charon Prime | 157 |  |
+| Crimsica | 78 |  |
+| Elysian Meadows | 98 |  |
+| Elysian Meadows | 98 |  |
+| Enuliale | 78 |  |
+| Fort Sanctuary | 32 |  |
+| Freedom Peak | 15 |  |
+| Gatria | 173 |  |
+| Gunvald | 108 |  |
+| Ingmar | 155 |  |
+| Kharst | 54 |  |
+| Liberty Ridge | 102 |  |
+| Overgoe Prime | 213 |  |
+| Providence | 23 |  |
+| Stout | 236 |  |
+| Ubanea | 241 |  |
+| Valgaard | 73 |  |
+| Valmox | 90 |  |
+| Yed Prior | 250 |  |
+
+## Other biomes
+
+| Biome | Planet name | Index | Hash |
+| :--- | :--- | :---: | :---: |
+| Swamp | Asperoth Prime | 143 |  |
+| Swamp | Bore Rock | 124 |  |
+| Swamp | Barabos | 43 |  |
+| Swamp | Caph | 150 |  |
+| Swamp | Clasa | 162 |  |
+| Acidic Desert | Botein | 145 |  |
+| Acidic Desert | Charbal-VII | 156 |  |
+| Acidic Desert | Chort Bay | 160 |  |
+| Acidic Desert | Darius II | 128 |  |
+| Acidic Desert | Darrowsport | 8 |  |
