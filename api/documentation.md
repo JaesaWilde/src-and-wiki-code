@@ -85,10 +85,63 @@ The faction is determined by:
 | ```"owner":3``` | Automatons |
 | ```"owner":4``` | Illuminate |
 
+## Open the planet
 
+In the ```WarStatus.json``` file, append the following data in the ```"campaigns":[]``` section. Make sure to get the right ```"planetIndex":```.
+
+```json
+"campaigns":[
+      {
+         "count":7,
+         "id":1,
+         "planetIndex":1,
+         "race":1,
+         "type":0
+      }
+   ]
+```
+
+## Add a Megacity
+
+You can add a Megacity to any planet. In the  ```WarStatus.json``` file, append the following data in the ```"planetRegions":[]``` section:
+
+```json
+"planetRegions":[
+      {
+         "planetIndex": 1,
+         "regionIndex": 0,
+         "owner": 4,
+         "health": 400000,
+         "regerPerSecond": 1.1111112,
+         "availabilityFactor": 0,
+         "isAvailable": true,
+         "players": 0
+      }
+   ]
+```
+
+If you assign a faction to a Megacity on a patch prior to its playability, it will be a classic operation on a Regular or Colony map.
+- ```1.003.000```: Illuminate Megacities
+- ```1.003.101```: Terminid Megacities
+- ```1.003.200```: Automaton Megacities
 
 ## Edit the biome
 
+To change the biome (and name) of a planet, change its ```"settingsHash":``` value in the ```WarInfo.json``` file. You can browse this [Planets and Sectors list](https://helldivers.fandom.com/wiki/Planets_and_Sectors?) to grab a planet's index by expanding the "Technical" section of a planet's descriptive box, then refer to the [API data](https://api.live.prod.thehelldiversgame.com/api/WarSeason/801/warinfo) to find the hash.
 
+### Barren Moon
 
-## Add a Megacity
+| Planet name | Index | Hash |
+| :--- | :---: | :---: |
+| Claorell | 161 | 1109752394 |
+| Curia | 66 | 1750606702 |
+| Dolph | 109 | 2131959183 |
+| Fenrir III | 125 | 2875368439 |
+| Maia | 195 | 1126502547 |
+| Rasp | 86 | 2598991571 |
+| RD-4 | 224 | 3659425534 |
+| Sirius | 232 | 31903659 |
+| Terrek | 76 | 910588397 |
+| Widow's Harbor | 3 | 2768073863 |
+| Zosma | 252 | 2360232252 |
+
