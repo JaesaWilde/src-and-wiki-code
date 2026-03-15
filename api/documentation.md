@@ -171,41 +171,41 @@ To change the biome (and name) of a planet, change its ```"settingsHash":``` val
 
 | Planet name | Index | Hash |
 | :--- | :---: | :---: |
-| Acrux IX | 133 |  |
-| Choepessa IV | 158 |  |
-| Deneb Secundus | 164 |  |
-| Estanu | 169 |  |
-| Eukoria | 55 |  |
-| Grafmere | 92 |  |
-| Halies Port | 179 |  |
-| Igla | 19 |  |
-| Inari | 83 |  |
-| Krakatwo | 27 |  |
-| Lesath | 194 |  |
-| Martyr's Bay | 14 |  |
-| Oslo Station | 106 |  |
-| Stor Tha Prime | 235 |  |
+| Acrux IX | 133 | 997215371 |
+| Choepessa IV | 158 | 2564387350 |
+| Deneb Secundus | 164 | 575825411 |
+| Estanu | 169 | 356540875 |
+| Eukoria | 55 | 3951456049 |
+| Grafmere | 92 | 3602852408 |
+| Halies Port | 179 | 386932878 |
+| Igla | 19 | 768352347 |
+| Inari | 83 | 2623879324 |
+| Krakatwo | 27 | 2585302931 |
+| Lesath | 194 | 3837447591 |
+| Martyr's Bay | 14 | 1529228469 |
+| Oslo Station | 106 | 1496025116 |
+| Stor Tha Prime | 235 | 3339959103 |
 
 ## Tundra
 
 | Planet name | Index | Hash |
 | :--- | :---: | :---: |
-| Andar | 142 |  |
-| Angel's Venture | 127 |  |
-| Aurora Bay | 114 |  |
-| Bunda Secundus | 148 |  |
-| Crucible | 29 |  |
-| Demiurg | 163 |  |
-| Diluvia | 37 |  |
-| Duma Tyr | 111 |  |
-| Fort Justice | 21 |  |
-| Ilduna Prime | 62 |  |
-| Kerth Secundus | 57 |  |
-| Martale | 199 |  |
-| Midasburg | 10 |  |
-| Ras Algethi | 223 |  |
-| Shelt | 68 |  |
-| Trandor | 100 |  |
+| Andar | 142 | 1526977116 |
+| Angel's Venture | 127 | 2003553249 |
+| Aurora Bay | 114 | 975759959 |
+| Bunda Secundus | 148 | 3228999359 |
+| Crucible | 29 | 410562438 |
+| Demiurg | 163 | 1270268663 |
+| Diluvia | 37 | 760056919 |
+| Duma Tyr | 111 | 255676170 |
+| Fort Justice | 21 | 3992185257 |
+| Ilduna Prime | 62 | 3508592390 |
+| Kerth Secundus | 57 | 3674393208 |
+| Martale | 199 | 2016899055 |
+| Midasburg | 10 | 2767954873 |
+| Ras Algethi | 223 | 4053031948 |
+| Shelt | 68 | 1223630977 |
+| Trandor | 100 | 3515299681 |
 
 ## Ionized Grassland
 
