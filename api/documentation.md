@@ -211,26 +211,24 @@ To change the biome (and name) of a planet, change its ```"settingsHash":``` val
 
 | Planet name | Index | Hash |
 | :--- | :---: | :---: |
-| Acrab XI | 132 |  |
-| Charon Prime | 157 |  |
-| Crimsica | 78 |  |
-| Elysian Meadows | 98 |  |
-| Elysian Meadows | 98 |  |
-| Enuliale | 78 |  |
-| Fort Sanctuary | 32 |  |
-| Freedom Peak | 15 |  |
-| Gatria | 173 |  |
-| Gunvald | 108 |  |
-| Ingmar | 155 |  |
-| Kharst | 54 |  |
-| Liberty Ridge | 102 |  |
-| Overgoe Prime | 213 |  |
-| Providence | 23 |  |
-| Stout | 236 |  |
-| Ubanea | 241 |  |
-| Valgaard | 73 |  |
-| Valmox | 90 |  |
-| Yed Prior | 250 |  |
+| Acrab XI | 132 | 3215655918 |
+| Charon Prime | 157 | 2007360508 |
+| Crimsica | 78 | 1886266372 |
+| Elysian Meadows | 98 | 3533355425 |
+| Fort Sanctuary | 32 | 3945891756 |
+| Freedom Peak | 15 | 3749877391 |
+| Gatria | 173 | 1039531899 |
+| Gunvald | 108 | 435094671 |
+| Ingmar | 155 | 2655630774 |
+| Kharst | 54 | 4190033207 |
+| Liberty Ridge | 102 | 1017957570 |
+| Overgoe Prime | 213 | 2798506372 |
+| Providence | 23 | 1257502272 |
+| Stout | 236 | 3478070727 |
+| Ubanea | 241 | 2216912817 |
+| Valgaard | 73 | 3238002446 |
+| Valmox | 90 | 1922612740 |
+| Yed Prior | 250 | 714233297 |
 
 ## Other biomes
 
