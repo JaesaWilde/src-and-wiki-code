@@ -381,6 +381,17 @@ Sector index: 18
 | Curia | 66 |  |
 | Tarsh | 67 |  |
 
+## Talus sector
+
+Sector index: 19
+
+| Planet | Index | Hash |
+| :--- | :---: | :---: |
+| Shallus | 46 |  |
+|  | 68 |  |
+|  | 69 |  |
+|  | 116 |  |
+
 ## 
 
 Sector index: 
@@ -395,7 +406,19 @@ Sector index:
 |  |  |  |
 |  |  |  |
 
+## 
 
+Sector index: 
+
+| Planet | Index | Hash |
+| :--- | :---: | :---: |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
 
 
