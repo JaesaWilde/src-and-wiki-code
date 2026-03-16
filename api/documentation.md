@@ -234,13 +234,13 @@ To change the biome (and name) of a planet, change its ```"settingsHash":``` val
 
 | Biome | Planet name | Index | Hash |
 | :--- | :--- | :---: | :---: |
-| Swamp | Asperoth Prime | 143 |  |
-| Swamp | Bore Rock | 124 |  |
-| Swamp | Barabos | 43 |  |
-| Swamp | Caph | 150 |  |
-| Swamp | Clasa | 162 |  |
-| Acidic Desert | Botein | 145 |  |
-| Acidic Desert | Charbal-VII | 156 |  |
-| Acidic Desert | Chort Bay | 160 |  |
-| Acidic Desert | Darius II | 128 |  |
-| Acidic Desert | Darrowsport | 8 |  |
+| Swamp | Asperoth Prime | 143 | 770159872 |
+| Swamp | Bore Rock | 124 | 2435651414 |
+| Swamp | Barabos | 43 | 1678797801 |
+| Swamp | Caph | 150 | 3480296110 |
+| Swamp | Clasa | 162 | 4171074231 |
+| Acidic Desert | Botein | 145 | 784275392 |
+| Acidic Desert | Charbal-VII | 156 | 3531149629 |
+| Acidic Desert | Chort Bay | 160 | 2695598028 |
+| Acidic Desert | Darius II | 128 | 2658926073 |
+| Acidic Desert | Darrowsport | 8 | 3550298780 |
