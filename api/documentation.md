@@ -434,3 +434,4 @@ odd planets:
 - Zed Rugosia, id 7, sector 2 but in Ferris sector
 - Hellmire, id 34, sector 3 but in Mirin sector
 - Fort union, id 16, sector 5 but in Orion sector
+- Azur Secundus, sector 20 but in Sten sector
