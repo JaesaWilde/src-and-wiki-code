@@ -392,19 +392,19 @@ Sector index: 19
 | Imber | 69 |  |
 | Gaellivare | 116 |  |
 
-## 
+## Orion sector
 
-Sector index: 
+Sector index: 20
 
 | Planet | Index | Hash |
 | :--- | :---: | :---: |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Fort Union | 16 |  |
+| Azterra | 49 |  |
+| Terrek | 76 |  |
+| Cirrus | 77 |  |
+| Heeth | 79 |  |
+| Veld | 80 |  |
+| Angel's Venture | 127 |  |
 
 ## 
 
