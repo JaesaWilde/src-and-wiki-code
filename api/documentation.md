@@ -406,6 +406,19 @@ Sector index: 20
 | Veld | 80 |  |
 | Angel's Venture | 127 |  |
 
+## Gallux sector
+
+Sector index: 11
+
+| Planet | Index | Hash |
+| :--- | :---: | :---: |
+| Kharst | 54 |  |
+| Rasp | 86 |  |
+| Bashyr | 87 |  |
+| Acubens Prime | 134 |  |
+| Adhara | 135 |  |
+| Afoyay Bay | 136 |  |
+
 ## 
 
 Sector index: 
@@ -421,12 +434,33 @@ Sector index:
 |  |  |  |
 
 
+## 
 
+Sector index: 
 
+| Planet | Index | Hash |
+| :--- | :---: | :---: |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
+## 
 
+Sector index: 
 
-
+| Planet | Index | Hash |
+| :--- | :---: | :---: |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
 
 
