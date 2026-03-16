@@ -244,3 +244,132 @@ To change the biome (and name) of a planet, change its ```"settingsHash":``` val
 | Acidic Desert | Chort Bay | 160 | 2695598028 |
 | Acidic Desert | Darius II | 128 | 2658926073 |
 | Acidic Desert | Darrowsport | 8 | 3550298780 |
+
+_____
+
+## Sectors documentation
+
+## Altus sector
+
+Sector index: 1
+
+| Planet | Index | Hash |
+| :--- | :---: | :---: |
+| Klen Dahth II | 1 | 3621417917 |
+| Pathfinder V | 2 | 2543303604 |
+| Widow's Harbor | 3 | 2768073863 |
+| New Haven | 4 | 158585041 |
+| Pilen V | 5 | 1008084099 |
+
+## Barnard sector
+
+Sector index: 2
+
+| Planet | Index | Hash |
+| :--- | :---: | :---: |
+| Hydrofall Prime | 6 |  |
+| Darrowsport | 8 |  |
+| Fornskogur II | 9 |  |
+| Midasburg | 10 |  |
+| Veil | 30 |  |
+| Marre IV | 31 |  |
+
+## Cancri sector
+
+Sector index: 3
+
+| Planet | Index | Hash |
+| :--- | :---: | :---: |
+| Cerberus IIIc | 11 | 688773671 |
+| Prosperity Falls | 12 |  |
+| Fort Sanctuary | 32 |  |
+| Seyshel Beach | 33 |  |
+| Effluvia | 35 |  |
+
+## Gothmar sector
+
+Sector index: 4
+
+| Planet | Index | Hash |
+| :--- | :---: | :---: |
+| Okul IV | 13 |  |
+| Solghast | 36 |  |
+| Diluvia | 37 |  |
+
+## Cantolus sector
+
+Sector index: 5
+
+| Planet | Index | Hash |
+| :--- | :---: | :---: |
+| Martyr's Bay | 14 |  |
+| Freedom Peak | 15 |  |
+| Kelvinor | 17 |  |
+| Viridia Prime | 38 |  |
+| Obari | 39 |  |
+
+## Idun sector 
+
+Sector index: 6
+
+| Planet | Index | Hash |
+| :--- | :---: | :---: |
+| Wraith | 18 |  |
+| Myradesh | 40 |  |
+| Atrama | 41 |  |
+| Maw | 63 |  |
+
+## Kelvin sector
+
+Sector index: 7
+
+| Planet | Index | Hash |
+| :--- | :---: | :---: |
+| Igla | 19 |  |
+| New Kiruna | 20 |  |
+| Fort Justice | 21 |  |
+| Zegema Paradise | 22 |  |
+| Emeria | 42 |  |
+
+## Iptus sector
+
+Sector index: 8
+
+| Planet | Index | Hash |
+| :--- | :---: | :---: |
+| Providence | 23 |  |
+| Primordia | 24 |  |
+| Krakabos | 47 |  |
+| Iridica | 48 |  |
+| Ratch | 71 |  |
+| Valgaard | 73 |  |
+
+## Celeste sector
+
+Sector index: 9
+
+| Planet | Index | Hash |
+| :--- | :---: | :---: |
+| Sulfura | 25 |  |
+| Nublaria I | 26 |  |
+| Krakatwo | 27 |  |
+| Ivis | 51 |  |
+| Slif | 52 |  |
+| Moradesh | 85 |  |
+
+## Korpus sector
+
+Sector index: 10
+
+| Planet | Index | Hash |
+| :--- | :---: | :---: |
+| Volterra | 28 |  |
+| Crucible | 29 |  |
+| Caramoor | 53 |  |
+| Alta V | 81 |  |
+| Inari | 83 |  |
+
+odd planets:
+- Zed Rugosia, id 7, sector 2 but in Ferris sector
+- Hellmire, id 34, sector 3 but in Mirin sector
+- Fort union, id 16, sector 5 but in Orion sector
