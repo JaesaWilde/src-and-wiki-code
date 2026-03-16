@@ -369,6 +369,44 @@ Sector index: 10
 | Alta V | 81 |  |
 | Inari | 83 |  |
 
+## Marspira sector
+
+Sector index: 18
+
+| Planet | Index | Hash |
+| :--- | :---: | :---: |
+| Barabos | 43 |  |
+| Fenmire | 44 |  |
+| Mastia | 45 |  |
+| Curia | 66 |  |
+| Tarsh | 67 |  |
+
+## 
+
+Sector index: 
+
+| Planet | Index | Hash |
+| :--- | :---: | :---: |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+
+
+
+
+
+
+
+
+
+
+
+
 odd planets:
 - Zed Rugosia, id 7, sector 2 but in Ferris sector
 - Hellmire, id 34, sector 3 but in Mirin sector
