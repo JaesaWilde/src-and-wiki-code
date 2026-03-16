@@ -432,6 +432,34 @@ Sector index: 12
 
 ## 
 
+Sector index: 13
+
+| Planet | Index | Hash |
+| :--- | :---: | :---: |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+## 
+
+Sector index: 14
+
+| Planet | Index | Hash |
+| :--- | :---: | :---: |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+## 
+
 Sector index: 
 
 | Planet | Index | Hash |
@@ -458,7 +486,19 @@ Sector index:
 |  |  |  |
 |  |  |  |
 
+## 
 
+Sector index: 
+
+| Planet | Index | Hash |
+| :--- | :---: | :---: |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
 odd planets:
 - Zed Rugosia, id 7, sector 2 but in Ferris sector
