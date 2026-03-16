@@ -419,20 +419,16 @@ Sector index: 11
 | Adhara | 135 |  |
 | Afoyay Bay | 136 |  |
 
-## 
+## Morgon sector
 
-Sector index: 
+Sector index: 12
 
 | Planet | Index | Hash |
 | :--- | :---: | :---: |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
+| Eukoria | 55 |  |
+| Myrium | 56 |  |
+| Regnus | 88 |  |
+| Mog | 95 |  |
 
 ## 
 
