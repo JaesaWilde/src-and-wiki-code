@@ -388,9 +388,9 @@ Sector index: 19
 | Planet | Index | Hash |
 | :--- | :---: | :---: |
 | Shallus | 46 |  |
-|  | 68 |  |
-|  | 69 |  |
-|  | 116 |  |
+| Shelt | 68 |  |
+| Imber | 69 |  |
+| Gaellivare | 116 |  |
 
 ## 
 
