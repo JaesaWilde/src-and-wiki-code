@@ -466,6 +466,76 @@ Sector index: 15
 | Liberty Ridge | 102 |  |
 | Baldrick Prime | 103 |  |
 
+## Sagan sector
+
+Sector index: 17
+
+| Planet | Index | Hash |
+| :--- | :---: | :---: |
+| Borea | 65 |  |
+| Oslo Station | 106 |  |
+| Gunvald | 108 |  |
+
+## Nanos sector
+
+Sector index: 31
+
+| Planet | Index | Hash |
+| :--- | :---: | :---: |
+| Julheim | 72 |  |
+| Dolph | 109 |  |
+| Bekvam III | 110 |  |
+| Duma Tyr | 111 |  |
+
+## Falstaff sector
+
+Sector index: 37
+
+| Planet | Index | Hash |
+| :--- | :---: | :---: |
+| Esker | 75 |  |
+| Erson Sands | 122 |  |
+| Socorro III | 123 |  |
+| Bore Rock | 124 |  |
+
+## Arturion sector
+
+Sector index: 36
+
+| Planet | Index | Hash |
+| :--- | :---: | :---: |
+| Arkturus | 74 |  |
+| Kirrik | 118 |  |
+| Mortax Prime | 119 |  |
+| Wilford Station | 120 |  |
+| Pioneer II | 121 |  |
+| Deneb Secundus | 164 |  |
+| Electra Bay | 165 |  |
+
+## Draco sector
+
+Sector index: 21
+
+| Planet | Index | Hash |
+| :--- | :---: | :---: |
+| Crimsica | 78 |  |
+| Estanu | 169 |  |
+| Fori Prime | 170 |  |
+
+## 
+
+Sector index: 
+
+| Planet | Index | Hash |
+| :--- | :---: | :---: |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
 ## 
 
 Sector index: 
@@ -499,3 +569,5 @@ odd planets:
 - Hellmire, id 34, sector 3 but in Mirin sector
 - Fort union, id 16, sector 5 but in Orion sector
 - Azur Secundus, sector 20 but in Sten sector
+- Meridia, id 64, sector 17 but in Celeste sector
+- Blistica, id 70, sector 8 but in Gellert sector
