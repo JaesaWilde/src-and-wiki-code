@@ -522,19 +522,16 @@ Sector index: 21
 | Estanu | 169 |  |
 | Fori Prime | 170 |  |
 
-## 
+## Borgus sector
 
-Sector index: 
+Sector index: 22
 
 | Planet | Index | Hash |
 | :--- | :---: | :---: |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Ursica XI | 82 |  |
+| Achird III | 112 |  |
+| Darius II | 128 |  |
+| Achernar Secundus | 130 |  |
 
 ## 
 
