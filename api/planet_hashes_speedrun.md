@@ -1,0 +1,117 @@
+# Planet hashes for speedruns
+
+## Barren Moon
+
+| Planet name | Index | Hash |
+| :--- | :---: | :---: |
+| Claorell | 161 | 1109752394 |
+| Curia | 66 | 1750606702 |
+| Dolph | 109 | 2131959183 |
+| Fenrir III | 125 | 2875368439 |
+| Maia | 195 | 1126502547 |
+| Rasp | 86 | 2598991571 |
+| RD-4 | 224 | 3659425534 |
+| Sirius | 232 | 31903659 |
+| Terrek | 76 | 910588397 |
+| Widow's Harbor | 3 | 2768073863 |
+| Zosma | 252 | 2360232252 |
+
+## Frozen Boneyard
+
+| Planet name | Index | Hash |
+| :--- | :---: | :---: |
+| Acrux IX | 133 | 997215371 |
+| Choepessa IV | 158 | 2564387350 |
+| Deneb Secundus | 164 | 575825411 |
+| Estanu | 169 | 356540875 |
+| Eukoria | 55 | 3951456049 |
+| Grafmere | 92 | 3602852408 |
+| Halies Port | 179 | 386932878 |
+| Igla | 19 | 768352347 |
+| Inari | 83 | 2623879324 |
+| Krakatwo | 27 | 2585302931 |
+| Lesath | 194 | 3837447591 |
+| Martyr's Bay | 14 | 1529228469 |
+| Oslo Station | 106 | 1496025116 |
+| Stor Tha Prime | 235 | 3339959103 |
+
+## Glacial Fjords
+
+| Planet name | Index | Hash |
+| :--- | :---: | :---: |
+| Alathfar XI | 141 | 1297056046 |
+| Arkturus | 74 | 670993741 |
+| Borea | 65 | 3293929397 |
+| Epsilon Phoencis VI | 167 | 3517952761 |
+| Hadar | 176 | 3671746797 |
+| Heeth | 79 | 1391690878 |
+| Hesoe Prime | 181 | 1581052380 |
+| Julheim | 72 | 922433838 |
+| Kelvinor | 17 | 2273175182 |
+| Marfark | 198 | 2831860380 |
+| Mog | 95 | 910436923 |
+| New Kiruna | 20 | 1299274778 |
+| New Stockholm | 93 | 3515684391 |
+| Okul VI | 13 | 2877873656 |
+| Vandalon IV | 243 | 230950549 |
+| Vega Bay | 246 | 229350423 |
+| Vog-Sojoth | 117 | 2580049274 |
+
+## Ionized Grassland
+
+| Planet name | Index | Hash |
+| :--- | :---: | :---: |
+| Acrab XI | 132 | 3215655918 |
+| Charon Prime | 157 | 2007360508 |
+| Crimsica | 78 | 1886266372 |
+| Elysian Meadows | 98 | 3533355425 |
+| Fort Sanctuary | 32 | 3945891756 |
+| Freedom Peak | 15 | 3749877391 |
+| Gatria | 173 | 1039531899 |
+| Gunvald | 108 | 435094671 |
+| Ingmar | 155 | 2655630774 |
+| Kharst | 54 | 4190033207 |
+| Liberty Ridge | 102 | 1017957570 |
+| Overgoe Prime | 213 | 2798506372 |
+| Providence | 23 | 1257502272 |
+| Stout | 236 | 3478070727 |
+| Ubanea | 241 | 2216912817 |
+| Valgaard | 73 | 3238002446 |
+| Valmox | 90 | 1922612740 |
+| Yed Prior | 250 | 714233297 |
+
+## Tundra
+
+| Planet name | Index | Hash |
+| :--- | :---: | :---: |
+| Andar | 142 | 1526977116 |
+| Angel's Venture | 127 | 2003553249 |
+| Aurora Bay | 114 | 975759959 |
+| Bunda Secundus | 148 | 3228999359 |
+| Crucible | 29 | 410562438 |
+| Demiurg | 163 | 1270268663 |
+| Diluvia | 37 | 760056919 |
+| Duma Tyr | 111 | 255676170 |
+| Fort Justice | 21 | 3992185257 |
+| Ilduna Prime | 62 | 3508592390 |
+| Kerth Secundus | 57 | 3674393208 |
+| Martale | 199 | 2016899055 |
+| Midasburg | 10 | 2767954873 |
+| Ras Algethi | 223 | 4053031948 |
+| Shelt | 68 | 1223630977 |
+| Trandor | 100 | 3515299681 |
+
+## Other biomes
+
+| Biome | Planet name | Index | Hash |
+| :--- | :--- | :---: | :---: |
+| Swamp | Asperoth Prime | 143 | 770159872 |
+| Swamp | Bore Rock | 124 | 2435651414 |
+| Swamp | Barabos | 43 | 1678797801 |
+| Swamp | Caph | 150 | 3480296110 |
+| Swamp | Clasa | 162 | 4171074231 |
+| Acidic Desert | Botein | 145 | 784275392 |
+| Acidic Desert | Charbal-VII | 156 | 3531149629 |
+| Acidic Desert | Chort Bay | 160 | 2695598028 |
+| Acidic Desert | Darius II | 128 | 2658926073 |
+| Acidic Desert | Darrowsport | 8 | 3550298780 |
