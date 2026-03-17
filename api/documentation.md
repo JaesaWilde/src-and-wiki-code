@@ -430,47 +430,41 @@ Sector index: 12
 | Regnus | 88 |  |
 | Mog | 95 |  |
 
-## 
+## Rictus sector
 
 Sector index: 13
 
 | Planet | Index | Hash |
 | :--- | :---: | :---: |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Kerth Secundus | 57 |  |
+| Parsh | 58 |  |
+| Valmox | 90 |  |
+| Iro | 91 |  |
+| Grafmere | 92 |  |
+| Oasis | 94 |  |
+| Genesis Prime | 95 |  |
 
-## 
+## Saleria sector
 
 Sector index: 14
 
 | Planet | Index | Hash |
 | :--- | :---: | :---: |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Reaf | 59 |  |
+| Irulta | 60 |  |
+| Outpost 32 | 96 |  |
+| Calypso | 97 |  |
 
-## 
+## Meridian sector
 
-Sector index: 
+Sector index: 15
 
 | Planet | Index | Hash |
 | :--- | :---: | :---: |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Emorath | 61 |  |
+| Ilduna Prime | 62 |  |
+| Liberty Ridge | 102 |  |
+| Baldrick Prime | 103 |  |
 
 ## 
 
