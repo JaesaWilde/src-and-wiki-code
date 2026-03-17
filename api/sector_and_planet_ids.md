@@ -179,7 +179,7 @@ Sector index: 12
 | Eukoria | 55 |  |
 | Myrium | 56 |  |
 | Regnus | 88 |  |
-| Mog | 95 |  |
+| Mog | 89 |  |
 
 ## Rictus sector
 
@@ -284,6 +284,88 @@ Sector index: 22
 | Darius II | 128 |  |
 | Achernar Secundus | 130 |  |
 
+## Ursa sector
+
+Sector index: 24
+
+| Planet | Index | Hash |
+| :--- | :---: | :---: |
+| Skaash | 84 |  |
+| Acrab XI | 132 |  |
+| Acrux IX | 133 |  |
+| Gemma | 174 |  |
+
+## Hanzo sector
+
+Sector index: 26
+
+| Planet | Index | Hash |
+| :--- | :---: | :---: |
+| New Stockholm | 93 |  |
+| Ain-5 | 137 |  |
+| Alairt III | 138 |  |
+| Alamak VII | 139 |  |
+| Heze Bay | 182 |  |
+
+## Guang sector
+
+Sector index: 28
+
+| Planet | Index | Hash |
+| :--- | :---: | :---: |
+| Elysian Meadows | 98 |  |
+| Alderidge Cove | 99 |  |
+| Bellatrix | 144 |  |
+| Botein | 145 |  |
+| Khandark | 187 |  |
+
+## Tarragon sector
+
+Sector index: 29
+
+| Planet | Index | Hash |
+| :--- | :---: | :---: |
+| East Iridium Trading Bay | 101 |  |
+| Osupsam | 146 |  |
+| Brink-2 | 147 |  |
+| Bunda Secundus | 148 |  |
+| Canopus | 149 |  |
+
+## Theseus sector
+
+Sector index: 16
+
+| Planet | Index | Hash |
+| :--- | :---: | :---: |
+| The Weir | 104 |  |
+| Kuper | 105 |  |
+| Caph | 150 |  |
+| Castor | 151 |  |
+| Lastofe | 192 |  |
+| Tien Kwan | 239 |  |
+
+## Xzar sector
+
+Sector index: 31
+
+| Planet | Index | Hash |
+| :--- | :---: | :---: |
+| Pöpli IX | 107 |  |
+| Draupnir | 153 |  |
+| Mort | 154 |  |
+| Ingmar | 155 |  |
+| Mantes | 197 |  |
+
+## Hydra sector
+
+Sector index: 32
+
+| Planet | Index | Hash |
+| :--- | :---: | :---: |
+| Vernen Wells | 112 |  |
+| Aesir Pass | 113 |  |
+| Menkent | 203 |  |
+
 ## 
 
 Sector index: 
@@ -319,3 +401,6 @@ odd planets:
 - Azur Secundus, sector 20 but in Sten sector
 - Meridia, id 64, sector 17 but in Celeste sector
 - Blistica, id 70, sector 8 but in Gellert sector
+- Azur Secundus, sector 29, id 100 but in Sten sector
+- Aurora Bay, id 114, sector 19 but in Valdis sector
+- Penta, id 115, sector 19 but in Lacaille sector
