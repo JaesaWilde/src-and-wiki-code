@@ -1,4 +1,4 @@
-# Planet biomes
+# Planet coordinates
 
 ## Akira Sector
 
