@@ -130,5 +130,5 @@ If you assign a faction to a Megacity on a patch prior to its playability, it wi
 To change the biome (and name) of a planet, change its ```"settingsHash":``` value in the ```WarInfo.json``` file. You can browse this [Planets and Sectors list](https://helldivers.fandom.com/wiki/Planets_and_Sectors?) to grab a planet's index by expanding the "Technical" section of a planet's descriptive box, then refer to the [API data](https://api.live.prod.thehelldiversgame.com/api/WarSeason/801/warinfo) to find the hash.
 
 Check out my documentation on:
-- [Planet hashes for speedruns](planet_hashes_speedrun.md).
-- [Sector and planet IDs](sector_and_planet_ids.md).
+- [Planet biome hashes](planet_biome_hashes.md).
+- [Planet coordinates](planet_coordinates.md).
