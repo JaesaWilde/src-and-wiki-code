@@ -205,7 +205,7 @@
 | :--- | :---: | :---: |
 | Acamar IV | 129 | 1231076923 |
 | Achernar Secundus | 130 | 984145086 |
-| Afoyay Bay | 136 | 984145086 |
+| Afoyay Bay | 136 | 3715077297 |
 | Bellatrix | 144 | 232742202 |
 | Draupnir | 153 | 1192040123 |
 | Electra Bay | 165 | 3031668844 |
