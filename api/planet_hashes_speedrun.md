@@ -204,7 +204,7 @@
 | Name | Index | Hash |
 | :--- | :---: | :---: |
 | Acamar IV | 129 | 1231076923 |
-| Achernar Secundus | 130 |  |
+| Achernar Secundus | 130 | 984145086 |
 | Afoyay Bay | 136 | 984145086 |
 | Bellatrix | 144 | 232742202 |
 | Draupnir | 153 | 1192040123 |
