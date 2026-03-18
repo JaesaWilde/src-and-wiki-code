@@ -106,6 +106,7 @@
 | Charon Prime | 157 | 2007360508 |
 | Crimsica | 78 | 1886266372 |
 | Elysian Meadows | 98 | 3533355425 |
+| Enuliale | 166 | 3692735566 |
 | Fort Sanctuary | 32 | 3945891756 |
 | Freedom Peak | 15 | 3749877391 |
 | Gatria | 173 | 1039531899 |
