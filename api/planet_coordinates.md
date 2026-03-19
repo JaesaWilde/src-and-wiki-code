@@ -66,7 +66,7 @@
 | Name | Index | Hash | Biome | Position x | Position y
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | Achernar Secundus | 130 | 984145086 | Grassland | ```0.6394251``` | ```-0.11354046``` |
-| Achird III | 112 | 2442155408 | Copper Desert | ```-0.26997122``` | ```0.3760109``` |
+| Achird III | 131 | 3921453955 | Copper Desert | ```0.5706473``` | ```-0.035894755``` |
 | Darius II | 128 | 2658926073 | Acidic Desert | ```0.6416474``` | ```-0.034105327``` |
 | Ursica XI | 82 | 4009717368 | Ethereal Jungle | ```0.5340751``` | ```-0.090368435``` |
 
